@@ -2,7 +2,7 @@
 
 # Mi Card
 
-[MyCard](/images/flutter-app.png)
+![MyCard](/images/flutter-app.png)
 
 ## Our Goal
 
